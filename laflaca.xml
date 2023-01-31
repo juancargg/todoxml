@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="laflaca.xsl"?>
+<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="laflaca1.xsd">
+   <titulo>La flaca</titulo>
+   <autor>Jarabe de Palo </autor>
+   <letra>
+       <estrofa>
+            <verso>En la vida conocí</verso>
+            <verso>Mujer igual a la flaca</verso>
+            <verso>Coral negro de la Habana</verso>
+            <verso>Tremendísima mulata</verso>
+            <verso>Cien libras de piel y hueso</verso>
+            <verso>Cuarenta kilos de salsa</verso>
+            <verso>Y en la cara dos soles</verso>
+            <verso>Que sin palabras hablan</verso>
+            <verso>Que sin palabras hablan</verso>
+        </estrofa>
+        
+         <estrofa>
+            <verso>La flaca duerme de día</verso>
+            <verso>Dice que así el hambre engaña</verso>
+            <verso>Cuando cae la noche</verso>
+            <verso>Baja a bailar a la Tasca</verso>
+        </estrofa>
+        
+         <estrofa>
+            <verso> Y bailar y bailar</verso>
+            <verso>Y tomar y tomar</verso>
+            <verso>Una cerveza tras otra</verso>
+            <verso>Pero ella nunca engorda</verso>
+            <verso>Pero ella nunca engorda</verso>
+         </estrofa>
+         
+         <estrofa>
+            <verso>Por un beso de la flaca</verso>
+            <verso>Daría lo que fuera</verso>
+            <verso>Por un beso de ella</verso>
+            <verso>Aunque sólo uno fuera.</verso>
+            <verso>Por un beso de la flaca</verso>
+            <verso>Daría lo que fuera</verso>
+            <verso>Por un beso de ella</verso>
+            <verso>Aunque sólo uno fuera.</verso>
+            <verso>Aunque sólo uno fuera</verso>
+         </estrofa>
+         
+         <estrofa>
+            <verso>Mojé mis sábanas blancas</verso>
+            <verso>Como dice la canción</verso>
+            <verso>Recordando las caricias</verso>
+            <verso>Que me brindó el primer día</verso>
+         </estrofa>
+         
+         <estrofa>
+            <verso>Y enloquezco de ganas de</verso>
+            <verso>Dormir a su ladito</verso>
+            <verso>¡Porque Dios que esta flaca a</verso>
+            <verso>Mí me tiene loquito!</verso>
+           <verso>A mí me tiene loquito.</verso>
+         </estrofa>
+         
+         <estrofa>
+            <verso>Por un beso de la flaca</verso>
+            <verso>Daría lo que fuera</verso>
+            <verso>Por un beso de ella</verso>
+            <verso>Aunque sólo uno fuera.</verso>
+            <verso>Por un beso de la flaca</verso>
+            <verso>Daría lo que fuera</verso>
+            <verso>Por un beso de ella</verso>
+            <verso>Aunque sólo uno fuera.</verso>
+            <verso>Aunque sólo uno fuera</verso>
+         </estrofa>
+    </letra>
+</cancion>
